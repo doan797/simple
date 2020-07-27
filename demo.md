@@ -1,7 +1,7 @@
-First line
+First line!
 
 second line!
 
-third line
+third line!
 
-and a final forth line. This is it
+and a final forth line. This is it!
